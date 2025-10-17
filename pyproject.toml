@@ -1,0 +1,14 @@
+[project]
+name = "pictool"
+version = "0.1.0"
+description = "A simple image manipulation CLI tool."
+authors = [{name = "Thant Htet Aung"}]
+requires-python = ">=3.8"
+dependencies = ["Pillow"]
+
+[project.scripts]
+pictool = "pictool.__main__:main"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
