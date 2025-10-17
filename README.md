@@ -132,3 +132,7 @@ pictool input.png -f output.jpg
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+<p align="center">💻 Made with ❤️ & a lot of ☕ by <b>Thant Htet Aung</b></p>
