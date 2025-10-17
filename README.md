@@ -29,7 +29,7 @@ All from the terminal, quickly and easily.
 2. Clone the repository:
 
 ```bash
-git clone https://github.com/<yourusername>/pictool.git
+git clone https://github.com/thanthtetaung4/pictool.git
 cd pictool
 ```
 
